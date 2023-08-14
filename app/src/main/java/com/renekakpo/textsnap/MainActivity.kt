@@ -1,4 +1,4 @@
-package com.renekakpo.ocrappdemo
+package com.renekakpo.textsnap
 
 import android.Manifest
 import android.content.pm.PackageManager
@@ -12,7 +12,7 @@ import com.google.android.gms.vision.Detector
 import com.google.android.gms.vision.Detector.Detections
 import com.google.android.gms.vision.text.TextBlock
 import com.google.android.gms.vision.text.TextRecognizer
-import com.renekakpo.ocrappdemo.databinding.ActivityMainBinding
+import com.renekakpo.textsnap.databinding.ActivityMainBinding
 import java.io.IOException
 
 

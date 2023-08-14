@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.renekakpo.ocrappdemo'
+    namespace 'com.renekakpo.textsnap'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.renekakpo.ocrappdemo"
+        applicationId "com.renekakpo.textsnap"
         minSdk 24
         targetSdk 33
         versionCode 1

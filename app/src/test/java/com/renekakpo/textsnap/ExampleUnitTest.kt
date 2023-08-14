@@ -1,4 +1,4 @@
-package com.renekakpo.ocrappdemo
+package com.renekakpo.textsnap
 
 import org.junit.Test
 
