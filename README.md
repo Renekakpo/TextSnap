@@ -2,8 +2,6 @@
 
 # TextSnap - Android Text Recognition App
 
-![TextSnap Logo](app_logo.png)
-
 TextSnap is a simple and intuitive Android app designed to demonstrate the capabilities of Google Vision Text Recognition. With TextSnap, you can easily capture text from images using your device's front camera and view the recognized text in real-time on the app's main screen. It's perfect for developers who want to explore Google Vision's text recognition features or for anyone looking for a straightforward way to extract text from images.
 
 ## Features
@@ -16,7 +14,7 @@ TextSnap is a simple and intuitive Android app designed to demonstrate the capab
 
 ## Screenshots
 
-![TextSnap Screenshot](screenshot.png)
+![TextSnap Screenshot](./screenshot/textsnap-screenshot.png)
 
 ## Installation
 
